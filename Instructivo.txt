@@ -1,0 +1,5 @@
+1. Ejecuta el Program.exe para iniciar el programa :3.
+2. Si intentas hacerlo desde tu IDE (por ejemplo Visual code), Tendras fallos debido
+a que las bibliotecas no lo soportan desde ese entorno.
+---------------------------------------
+Programa destinado al proyecto de la unidad 1 del segundo cuatrimestre.
