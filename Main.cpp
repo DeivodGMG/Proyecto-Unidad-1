@@ -22,7 +22,7 @@ tabulate::Table title; // Agregar el título
     table.add_row({"int16", "2", "-32,768", "32,767"});
     table.add_row({"float32", "4", "+-1.2 * 10^-38", "+-3.4 * 10^38"});
     table.add_row({"float64", "8", "+-2.2 * 10^308", "+-1.8 * 10^308"});
-    table.add_row({"char", "8", "/0", "..."});
+    table.add_row({"char", "1", "/0", "..."});
     table.add_row({"short", "2", "-32,768 ", "32,767"});
     table.add_row({"long", "4", "0", "Depende del lenguaje"});
     table.add_row({"double", "8", "4,9e-324", "1,7e+308"}); // Decoración por columna
